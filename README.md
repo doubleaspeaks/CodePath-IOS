@@ -1,9 +1,10 @@
-## NAME_OF_YOUR_APP_HERE
+Hello World!
 
-### App Description
-`TODO://` Add app description
+App Description
+An android app which displays some text and changes its color with a push of a button.
 
-### App Walk-though
+
+App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
